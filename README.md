@@ -15,12 +15,12 @@
 1. 确保你的浏览器已安装 [Tampermonkey (油猴)](https://www.tampermonkey.net/) 插件。
 2. 点击下方按钮，在弹出的窗口中点击“安装”或“更新”即可：
 
-[![](https://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkey)](这里粘贴你刚才复制的Raw链接)
+[![](https://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkey)](这里粘贴你刚才复制的Raw链接)[![](https://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkey)](这里粘贴你刚才复制的Raw链接)
 
 > **注意**：安装后刷新目标页面即可生效。
 
 ## 🔑 配置说明
-本工具需要使用 TMDB API 才能正常工作。为了您的账号安全，请按照以下步骤配置：
+本工具需要使用 TMDB API 才能正常工作。请按照以下步骤配置：
 
 1. 登录 [TMDB 官网](https://www.themoviedb.org/settings/api) 申请你自己的 API Key。
 2. 安装本脚本后，点击页面上的“设置”按钮（或首次运行时根据提示）。
