@@ -4,8 +4,10 @@
 # 🎬 光鸭网盘 TMDB 批量重命名助手
 
 一款极简高效的重命名辅助工具，专为提升数据处理效率而生。
+<video src="https://github.com/user-attachments/assets/6f8ae08c-9444-413e-8165-844da0027ed4" width="600" controls>
+  您的浏览器不支持视频标签。
+</video>
 
-https://github.com/user-attachments/assets/6f8ae08c-9444-413e-8165-844da0027ed4
 现在支持文件改名保留后缀
 
 
