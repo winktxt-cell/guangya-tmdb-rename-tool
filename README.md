@@ -5,6 +5,11 @@
 
 一款极简高效的重命名辅助工具，专为提升数据处理效率而生。
 
+https://github.com/user-attachments/assets/6f8ae08c-9444-413e-8165-844da0027ed4
+现在支持文件改名保留后缀
+
+
+
 ## ✨ 核心特性
 - **极简设计**：砍掉了所有不必要的交互逻辑，包括撤销功能，主打一个点完即走。
 - **一键处理**：针对光鸭网盘和 TMDB 数据进行了深度优化。
@@ -15,7 +20,7 @@
 1. 确保你的浏览器已安装 [Tampermonkey (油猴)](https://www.tampermonkey.net/) 插件。
 2. 点击下方按钮，在弹出的窗口中点击“安装”或“更新”即可：
 
-[![](https://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkey)](这里粘贴你刚才复制的Raw链接)[![](https://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkey)](这里粘贴你刚才复制的Raw链接)
+[![](https://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkey)](这里粘贴你刚才复制的Raw链接)[![](https://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkey)](这里粘贴你刚才复制的Raw链接)[![](https://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkey)](这里粘贴你刚才复制的Raw链接)[![](https://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkeyhttps://img.shields.io/badge/立即安装-脚本助手-green.svg?style=for-the-badge&logo=tampermonkey)](这里粘贴你刚才复制的Raw链接)
 
 > **注意**：安装后刷新目标页面即可生效。
 
