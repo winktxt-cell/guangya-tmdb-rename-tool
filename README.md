@@ -36,6 +36,9 @@
 
 > **安全提示**：请勿将您的 API Key 泄露给他人。
 
+
+<img width="851" height="1245" alt="image" src="https://github.com/user-attachments/assets/574127a1-e621-4409-bacd-112436499edc" />
+
 ---
 
 ## ⚖️ 免责声明
